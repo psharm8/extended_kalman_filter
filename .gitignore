@@ -22,4 +22,6 @@ xcuserdata/
 *.xcscmblueprint
 ide_profiles/xcode/Debug/
 ide_profiles/xcode/ExtendedKF.build/
-
+ExtendedKF.build/
+._*
+src/._*
