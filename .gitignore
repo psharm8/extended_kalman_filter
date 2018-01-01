@@ -25,3 +25,4 @@ ide_profiles/xcode/ExtendedKF.build/
 ExtendedKF.build/
 ._*
 src/._*
+Debug/
